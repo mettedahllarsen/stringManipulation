@@ -1,0 +1,17 @@
+.container-fluid
+{
+padding: 40px;
+background-color: #eef085;
+text-align: center;
+}
+
+#app {
+    padding: 40px;
+    width: 60%;
+    margin: auto;
+}
+
+.flex-container {
+    margin-top: 20px;
+    
+}
